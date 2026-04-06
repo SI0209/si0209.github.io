@@ -1,0 +1,6 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+title: "Suhail Ismail"
+description: "BCom Information Systems | Web Developer | Software Developer | Data Analyst"

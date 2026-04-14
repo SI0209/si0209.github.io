@@ -35,4 +35,4 @@ Business website built for client acquisition and branding.
 - Email: suh.ism0209@gmail.com
 - Phone: +27 66 003 5077
 - GitHub: https://github.com/SI0209
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/suhail-ismail-73589b288

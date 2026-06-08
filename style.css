@@ -191,6 +191,7 @@ pre { margin: 0; padding: 22px; color: #dbeafe; font-size: clamp(0.78rem, 1.1vw,
   .contact-link-github:hover { color: #a78bfa !important; border-color: rgba(167, 139, 250, 0.4) !important; }
   .contact-link-linkedin:hover { color: #0077b5 !important; border-color: rgba(0, 119, 181, 0.4) !important; }
   .contact-link-phone:hover { color: #3DDC84 !important; border-color: rgba(61, 220, 132, 0.4) !important; }
+  .contact-link-email:hover { color: #0072C6 !important; border-color: rgba(0, 114, 198, 0.4) !important; }
 
 
 .site-footer { border-top: 1px solid var(--line); padding: 30px 0 46px; color: var(--soft); }

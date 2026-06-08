@@ -188,6 +188,8 @@ pre { margin: 0; padding: 22px; color: #dbeafe; font-size: clamp(0.78rem, 1.1vw,
 
   .contact-link-whatsapp { display: flex; align-items: center; gap: 10px; }
   .contact-link-whatsapp:hover { color: #25D366 !important; border-color: rgba(37, 211, 102, 0.4) !important; }
+  .contact-link-github:hover { color: #f0f6fc !important; border-color: rgba(240, 246, 252, 0.4) !important; }
+  .contact-link-linkedin:hover { color: #0077b5 !important; border-color: rgba(0, 119, 181, 0.4) !important; }
 
 
 .site-footer { border-top: 1px solid var(--line); padding: 30px 0 46px; color: var(--soft); }
